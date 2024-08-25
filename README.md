@@ -1,5 +1,6 @@
 # Official Dojos
-A listing of official dojos available on https://pwn.college/.
+A listing of official dojos available on https://pwn.college/. 
+Please submit issues/PRs to improve the educational material for everyone!
 
 
 ## Getting Started
