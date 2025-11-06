@@ -15,6 +15,15 @@ Please submit issues/PRs to improve the educational material for everyone!
 ### [System Security](https://github.com/pwncollege/system-security-dojo)
 ### [Software Exploitation](https://github.com/pwncollege/software-exploitation-dojo)
 
-## Extra
+## Official Community dojos
+### [XNU Dojo](https://github.com/pwncollege/xnu-dojo)
+### [Injection Dojo](https://github.com/pwncollege/injection-dojo)
+### [Arm Dojo](https://github.com/pwncollege/arm-dojo)
+### [Cryptographic Exploitation](https://github.com/prathamgupta36/cryptomania)
+### [Demo Dojo](https://github.com/robwaz/demo-dojo)
+### [Windows Warzone](https://github.com/pwncollege/windows-dojo)
+
+
+## Archives
 ### [Archive](https://github.com/pwncollege/archive-dojo)
 ### [CTF Archive](https://github.com/pwncollege/ctf-archive)
