@@ -20,8 +20,8 @@ Please submit issues/PRs to improve the educational material for everyone!
 ### [Injection Dojo](https://github.com/pwncollege/injection-dojo)
 ### [Arm Dojo](https://github.com/pwncollege/arm-dojo)
 ### [Cryptographic Exploitation](https://github.com/prathamgupta36/cryptomania)
-### [Demo Dojo](https://github.com/robwaz/demo-dojo)
 ### [Windows Warzone](https://github.com/pwncollege/windows-dojo)
+### [Demo Dojo](https://github.com/robwaz/demo-dojo)
 
 
 ## Archives
